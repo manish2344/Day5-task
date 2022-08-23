@@ -65,7 +65,7 @@ let calculateSum = function(arr) {
 console.log(calculateSum([1, 2, 3, 4]));
 
 //********output*********/
-//10
+//10///
 
 //d.Return all the prime numbers in an array
 const newArray = [1, 3, 2, 5, 10];
